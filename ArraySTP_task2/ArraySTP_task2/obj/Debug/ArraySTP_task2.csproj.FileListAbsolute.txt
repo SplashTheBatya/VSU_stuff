@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\bin\Debug\ArraySTP_task2.exe.config
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\bin\Debug\ArraySTP_task2.exe
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\bin\Debug\ArraySTP_task2.pdb
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\obj\Debug\ArraySTP_task2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\obj\Debug\ArraySTP_task2.Form1.resources
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\obj\Debug\ArraySTP_task2.Properties.Resources.resources
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\obj\Debug\ArraySTP_task2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\obj\Debug\ArraySTP_task2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\obj\Debug\ArraySTP_task2.exe
+C:\Users\User\source\repos\ArraySTP_task2\ArraySTP_task2\obj\Debug\ArraySTP_task2.pdb
