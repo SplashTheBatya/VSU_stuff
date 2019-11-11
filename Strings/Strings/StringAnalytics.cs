@@ -5,6 +5,9 @@ namespace Strings
 {
     public class StringAnalytics
     {
+
+        private  char[] delimArr = new char[] { ' ', ',', '.', ':' };
+
         private string Text { get; set; }
 
         private string[] Words { get; set; }
@@ -21,7 +24,7 @@ namespace Strings
 
         public void StreamReader()
         {
-            char[] delimArr = new char[] { ' ', ',', '.', ':' };
+           
             try
             {
                 using (StreamReader sr = new StreamReader(Path))
@@ -58,14 +61,16 @@ namespace Strings
 
         public int SpecialWordCounter()
         {
+           
             int specialWordCounter = 0;
-            var buffer = new char[0];
+
             foreach (string i in Words)
             {
-                buffer = i.ToCharArray();
-                if (i[0] == i[buffer.Length - 1])
+                i.Trim(delimArr);
+                if ((i.Length > 0) && (i.Substring(0, 1).ToLower() == i.Substring(i.Length - 1, 1).ToLower()))
                 {
                     specialWordCounter++;
+
                 }
 
             }
