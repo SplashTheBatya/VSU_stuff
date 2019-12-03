@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Strings
+namespace StringsConsole
 {
-    public class StringAnalytics
+    public class StringAnalyticsConsole
     {
 
-        private  char[] delimArr = new char[] { ' ', ',', '.', ':' };
+        private char[] delimArr = new char[] { ' ', ',', '.', ':' };
 
         private string Text { get; set; }
 
@@ -16,7 +19,7 @@ namespace Strings
         string Path { get; set; }
 
 
-        public StringAnalytics(string Path)
+        public StringAnalyticsConsole(string Path)
         {
             this.Path = Path;
         }
@@ -25,7 +28,7 @@ namespace Strings
 
         public void StreamReader()
         {
-           
+
             try
             {
                 using (StreamReader sr = new StreamReader(Path))
@@ -48,6 +51,8 @@ namespace Strings
 
         public string ShowText()
         {
+
+            StreamReader();
             try
             {
                 using (StreamReader sr = new StreamReader(Path))
@@ -65,7 +70,7 @@ namespace Strings
 
         public int SpecialWordCounter()
         {
-           
+            StreamReader();
             int specialWordCounter = 0;
 
             foreach (string i in Words)
@@ -82,7 +87,7 @@ namespace Strings
 
         public List<string> SpecialWordShow()
         {
-
+            StreamReader();
             var list = new List<string>();
 
             foreach (string i in Words)
@@ -96,6 +101,5 @@ namespace Strings
             }
             return list;
         }
-
     }
 }

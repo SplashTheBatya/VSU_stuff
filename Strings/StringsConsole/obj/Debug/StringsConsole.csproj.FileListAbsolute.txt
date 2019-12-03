@@ -1,0 +1,7 @@
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\Strings\StringsConsole\bin\Debug\StringsConsole.exe.config
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\Strings\StringsConsole\bin\Debug\StringsConsole.exe
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\Strings\StringsConsole\bin\Debug\StringsConsole.pdb
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\Strings\StringsConsole\obj\Debug\StringsConsole.csprojAssemblyReference.cache
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\Strings\StringsConsole\obj\Debug\StringsConsole.csproj.CoreCompileInputs.cache
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\Strings\StringsConsole\obj\Debug\StringsConsole.exe
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\Strings\StringsConsole\obj\Debug\StringsConsole.pdb
