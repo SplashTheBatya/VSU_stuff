@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace Strings
@@ -42,6 +43,9 @@ namespace Strings
             }
         }
 
+
+
+
         public string ShowText()
         {
             try
@@ -70,11 +74,27 @@ namespace Strings
                 if ((i.Length > 0) && (i.Substring(0, 1).ToLower() == i.Substring(i.Length - 1, 1).ToLower()))
                 {
                     specialWordCounter++;
-
                 }
 
             }
             return specialWordCounter;
+        }
+
+        public List<string> SpecialWordShow()
+        {
+
+            var list = new List<string>();
+
+            foreach (string i in Words)
+            {
+                i.Trim(delimArr);
+                if ((i.Length > 0) && (i.Substring(0, 1).ToLower() == i.Substring(i.Length - 1, 1).ToLower()))
+                {
+                    list.Add(i);
+                }
+
+            }
+            return list;
         }
 
     }

@@ -48,8 +48,14 @@ namespace Strings
                 MessageBox.Show("Ошибка" + ex);
             }
 
-             TextBoxResult.Text = stringAnalytics.SpecialWordCounter().ToString();
-        }
+            TextBoxResult.Text = stringAnalytics.SpecialWordCounter().ToString();
+            var list = stringAnalytics.SpecialWordShow();
+            foreach (var i in list)
+            {
+                TextBoxForSpecialWords.Text += " " + i;
+            }
 
+
+        }
     }
 }
