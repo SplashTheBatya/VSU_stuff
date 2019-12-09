@@ -27,7 +27,7 @@ namespace ClassesSTP
 
             do
             {
-                Console.WriteLine("НАЖМИ АДЫН, ДВЫ ИЛИ ТРЫ");
+                Console.WriteLine("ВЫБЕРИТЕ: \n1 - Добавить студента \n2-Найти самого успешного \n3-Найти самого неуспешного\n");
                 bool SwitchSuccess = int.TryParse(Console.ReadLine(), out iterator);
                 if (SwitchSuccess)
                 {
@@ -36,7 +36,7 @@ namespace ClassesSTP
                         case 1:
                             var stud = new Student();
 
-                            Console.WriteLine("ВВЕДЫ ЫМЯ");
+                            Console.WriteLine("Введите имя: ");
                             stud.Name = Console.ReadLine();
 
                             int[] StudMarksArr = new int[MarksValueArrSize];
@@ -47,6 +47,11 @@ namespace ClassesSTP
                                 if (StudMarksElemSuccess)
                                 {
                                     StudMarksArr[i] = StudMarksElem;
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Ошибка");
+                                    break;
                                 }
                             }
 
