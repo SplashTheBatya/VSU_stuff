@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ClassesSTP\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\User\source\repos\ClassesSTP\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\User\source\repos\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\User\source\repos\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\bin\Debug\ClassesSTP.exe.config
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\bin\Debug\ClassesSTP.exe
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\bin\Debug\ClassesSTP.pdb
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\obj\Debug\ClassesSTP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\obj\Debug\ClassesSTP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\obj\Debug\ClassesSTP.exe
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\obj\Debug\ClassesSTP.pdb
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\bin\Debug\StudentLibrary.dll
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\bin\Debug\StudentLibrary.pdb
+C:\Users\User\source\repos\ClassesSTP\ClassesSTP\obj\Debug\ClassesSTP.csproj.CopyComplete
