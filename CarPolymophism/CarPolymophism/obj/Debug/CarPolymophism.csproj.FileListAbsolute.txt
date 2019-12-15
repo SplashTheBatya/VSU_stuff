@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\bin\Debug\CarPolymophism.exe.config
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\bin\Debug\CarPolymophism.exe
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\bin\Debug\CarPolymophism.pdb
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\bin\Debug\CarClasses.dll
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\bin\Debug\CarClasses.pdb
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.csproj.CopyComplete
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.exe
+C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.pdb

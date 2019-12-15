@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CarPolymophism\CarClasses\bin\Debug\CarClasses.dll
+C:\Users\User\source\repos\CarPolymophism\CarClasses\bin\Debug\CarClasses.pdb
+C:\Users\User\source\repos\CarPolymophism\CarClasses\obj\Debug\CarClasses.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarPolymophism\CarClasses\obj\Debug\CarClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarPolymophism\CarClasses\obj\Debug\CarClasses.dll
+C:\Users\User\source\repos\CarPolymophism\CarClasses\obj\Debug\CarClasses.pdb
