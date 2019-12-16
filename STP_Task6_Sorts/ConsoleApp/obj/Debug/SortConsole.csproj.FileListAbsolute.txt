@@ -1,0 +1,10 @@
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\bin\Debug\SortUtils.dll
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\bin\Debug\SortUtils.pdb
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortConsole.csprojAssemblyReference.cache
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortConsole.csproj.CoreCompileInputs.cache
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortConsole.csproj.CopyComplete
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\ConsoleApp.pdb

@@ -1,0 +1,6 @@
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortUtils\bin\Debug\SortUtils.dll
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortUtils\bin\Debug\SortUtils.pdb
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortUtils\obj\Debug\SortUtils.csproj.CoreCompileInputs.cache
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortUtils\obj\Debug\SortUtils.dll
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortUtils\obj\Debug\SortUtils.pdb
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortUtils\obj\Debug\SortUtils.csprojAssemblyReference.cache

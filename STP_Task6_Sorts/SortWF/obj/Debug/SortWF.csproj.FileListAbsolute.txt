@@ -1,0 +1,13 @@
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\bin\Debug\SortWF.exe.config
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\bin\Debug\SortWF.exe
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\bin\Debug\SortWF.pdb
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.csprojAssemblyReference.cache
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.Form1.resources
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.Properties.Resources.resources
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.csproj.GenerateResource.cache
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.csproj.CoreCompileInputs.cache
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.exe
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.pdb
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\bin\Debug\SortUtils.dll
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\bin\Debug\SortUtils.pdb
+D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\SortWF\obj\Debug\SortWF.csproj.CopyComplete
