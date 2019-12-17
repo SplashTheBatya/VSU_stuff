@@ -8,3 +8,13 @@ C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophis
 C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.csproj.CopyComplete
 C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.exe
 C:\Users\User\source\repos\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\bin\Debug\CarPolymophism.exe.config
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\bin\Debug\CarPolymophism.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\bin\Debug\CarPolymophism.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\bin\Debug\CarClasses.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\bin\Debug\CarClasses.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\CarPolymophism\CarPolymophism\obj\Debug\CarPolymophism.pdb

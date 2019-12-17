@@ -27,7 +27,7 @@ namespace ClassesSTP
 
             do
             {
-                Console.WriteLine("ВЫБЕРИТЕ: \n1 - Добавить студента \n2-Найти самого успешного \n3-Найти самого неуспешного\n");
+                Console.WriteLine("ВЫБЕРИТЕ: \n1-Добавить студента \n2-Найти самого успешного \n3-Найти самого неуспешного \n4-Выйти");
                 bool SwitchSuccess = int.TryParse(Console.ReadLine(), out iterator);
                 if (SwitchSuccess)
                 {

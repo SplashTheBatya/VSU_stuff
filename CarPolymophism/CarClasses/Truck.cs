@@ -11,13 +11,9 @@ namespace CarClasses
         public double CarryingCapacity { get; set; }
         public double CurrentGoodsWeight { get; set; }
 
-        public Truck(int Number, double FuelCapacity, double FuelСonsumption, double Mileage, double CarryingCapacity)
+        public Truck(int Number, double FuelCapacity, double FuelСonsumption, double Mileage, double CarryingCapacity) 
+           : base("Грузовой", Number, FuelCapacity, FuelСonsumption, Mileage)
         {
-            Model = "Грузовой";
-            this.Number = Number;
-            this.FuelCapacity = FuelCapacity;
-            this.FuelСonsumption = FuelСonsumption;
-            this.Mileage = Mileage;
             this.CarryingCapacity = CarryingCapacity;
         }
 

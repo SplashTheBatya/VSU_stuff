@@ -12,12 +12,8 @@ namespace CarClasses
         public int CurrentPassenger { get; set; }
 
         public PassengerCar(int Number, double FuelCapacity, double FuelСonsumption, double Mileage, int PassangerCapacity)
+            : base("Легковой",Number,FuelCapacity, FuelСonsumption, Mileage)
         {
-            Model = "Легковой";
-            this.Number = Number;
-            this.FuelCapacity = FuelCapacity;
-            this.FuelСonsumption = FuelСonsumption;
-            this.Mileage = Mileage;
             this.PassangerCapacity = PassangerCapacity;
         }
 

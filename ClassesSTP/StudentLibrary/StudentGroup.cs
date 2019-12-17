@@ -10,12 +10,6 @@ namespace StudentLibrary
 
     public struct Student
     {
-
-        //public Student(string name, List<double> marks)
-        //{
-        //    MarksAvg = marks;
-        //    Name = name;
-        //}
         public string Name { get; set; }
         public double MarksAvg { get; set; }
 

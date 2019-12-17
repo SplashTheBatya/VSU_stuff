@@ -8,3 +8,13 @@ D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortCo
 D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortConsole.csproj.CopyComplete
 D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\ConsoleApp.exe
 D:\Хуйня\GitHub\HtmlCSS\CStasks\STP_Task6_Sorts\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\bin\Debug\SortUtils.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\bin\Debug\SortUtils.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortConsole.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\obj\Debug\SortConsole.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\STP_Task6_Sorts\ConsoleApp\obj\Debug\ConsoleApp.pdb

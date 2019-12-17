@@ -4,3 +4,9 @@ C:\Users\User\source\repos\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.cs
 C:\Users\User\source\repos\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.dll
 C:\Users\User\source\repos\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.pdb
 C:\Users\User\source\repos\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\StudentLibrary\obj\Debug\StudentLibrary.pdb

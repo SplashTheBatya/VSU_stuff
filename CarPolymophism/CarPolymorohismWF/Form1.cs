@@ -31,7 +31,7 @@ namespace CarPolymorohismWF
                         double.TryParse(dataGridViewCars[2, i].Value.ToString(), out double FuelCapacity) &&
                         double.TryParse(dataGridViewCars[3, i].Value.ToString(), out double FuelConsumption) &&
                         double.TryParse(dataGridViewCars[4, i].Value.ToString(), out double Miliage) &&
-                        int.TryParse(dataGridViewCars[1, i].Value.ToString(), out int PassangerCappacity))
+                        int.TryParse(dataGridViewCars[5, i].Value.ToString(), out int PassangerCappacity))
                     {
                         var car = new PassengerCar(Number, FuelCapacity, FuelConsumption, Miliage, PassangerCappacity);
                         cars.Add(car);

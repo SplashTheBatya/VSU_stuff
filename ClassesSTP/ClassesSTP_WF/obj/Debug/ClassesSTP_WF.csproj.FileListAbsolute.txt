@@ -11,3 +11,16 @@ C:\Users\User\source\repos\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.cspr
 C:\Users\User\source\repos\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.csproj.CopyComplete
 C:\Users\User\source\repos\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.exe
 C:\Users\User\source\repos\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\bin\Debug\ClassesSTP_WF.exe.config
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\bin\Debug\ClassesSTP_WF.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\bin\Debug\ClassesSTP_WF.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\bin\Debug\StudentLibrary.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\bin\Debug\StudentLibrary.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.Form1.resources
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\ClassesSTP\ClassesSTP_WF\obj\Debug\ClassesSTP_WF.pdb
