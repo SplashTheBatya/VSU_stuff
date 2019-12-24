@@ -1,0 +1,20 @@
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\bin\Debug\2-D animation.exe.config
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\bin\Debug\2-D animation.exe
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\bin\Debug\2-D animation.pdb
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\obj\Debug\2-D animation.csprojAssemblyReference.cache
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\obj\Debug\_2_D_animation.animation.resources
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\obj\Debug\_2_D_animation.Properties.Resources.resources
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\obj\Debug\2-D animation.csproj.GenerateResource.cache
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\obj\Debug\2-D animation.csproj.CoreCompileInputs.cache
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\obj\Debug\2-D animation.exe
+C:\Users\MediaMarkt\source\repos\2-D animation\2-D animation\obj\Debug\2-D animation.pdb
+C:\Users\User\Downloads\2-D animation\2-D animation\bin\Debug\2-D animation.exe.config
+C:\Users\User\Downloads\2-D animation\2-D animation\bin\Debug\2-D animation.exe
+C:\Users\User\Downloads\2-D animation\2-D animation\bin\Debug\2-D animation.pdb
+C:\Users\User\Downloads\2-D animation\2-D animation\obj\Debug\2-D animation.csprojAssemblyReference.cache
+C:\Users\User\Downloads\2-D animation\2-D animation\obj\Debug\_2_D_animation.animation.resources
+C:\Users\User\Downloads\2-D animation\2-D animation\obj\Debug\_2_D_animation.Properties.Resources.resources
+C:\Users\User\Downloads\2-D animation\2-D animation\obj\Debug\2-D animation.csproj.GenerateResource.cache
+C:\Users\User\Downloads\2-D animation\2-D animation\obj\Debug\2-D animation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\2-D animation\2-D animation\obj\Debug\2-D animation.exe
+C:\Users\User\Downloads\2-D animation\2-D animation\obj\Debug\2-D animation.pdb
