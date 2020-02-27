@@ -1,0 +1,122 @@
+class Queue:
+    def __len__(self):
+        return len(self.list)
+
+    def __init__(self):
+        self.list = DoubleLinkedList()
+
+    def add(self, value: object ):
+        self.list.add_first(value)
+
+    def remove(self) -> object:
+        return self.list.remove_back()
+
+    def get_value(self) -> object:
+        return self.list.get_last()
+
+
+class DoubleLinkedList:
+    def __len__(self):
+        return self.length
+
+    def __index__(self):
+        return self.index_of()
+
+    def __next__(self):
+        pass
+
+    def get_enumerator(self):
+        temp = self.head_ptr
+        while(temp.next != None):
+            yield temp.data
+            temp = temp.next
+        yield temp.data
+
+
+    def insert(self, value: object, index: int):
+        raise NotImplementedError
+
+    def index_of(self, value: object) -> int:
+        raise NotImplementedError
+
+    def get_by_index(self, index: int):
+        raise NotImplementedError
+
+    def remove_by_index(self, index: int):
+        raise NotImplementedError
+
+    def remove(self, value: object):
+        raise NotImplementedError
+
+    def __init__(self):
+        self.length = 0
+        self.head_ptr = self.Node(0)
+        self.tail_ptr = self.Node(0)
+        pass
+
+    class Node:
+        def __init__(self, data: object, prev=None, next=None):
+            self.data = data
+            self.prev = prev
+            self.next = next
+
+    def add_last(self, data: object) -> None:
+        if self.length == 0:
+            self.head_ptr =self.tail_ptr = self.Node(data)
+        else:
+            self.tail_ptr = self.Node(data, self.tail_ptr)
+            self.tail_ptr.prev.next = self.tail_ptr
+        self.length += 1
+
+    def add_first(self, data: object) -> None:
+        if self.length == 0:
+            self.tail_ptr = self.head_ptr = self.Node(data)
+        else:
+            self.head_ptr = self.Node(data, None, self.head_ptr)
+            self.head_ptr.next.prev = self.head_ptr
+        self.length += 1
+
+    def remove_first(self) -> object:
+        if self.length == 0:
+            raise IndexError('Пощёл в пизду')
+        else:
+            removed_value = self.head_ptr.data
+            self.head_ptr = self.head_ptr.next
+            self.head_ptr.prev = None
+            self.length -= 1
+            return removed_value
+
+    def remove_back(self) -> object:
+        if self.length == 0:
+            raise IndexError('Пощёл в пизду')
+        else:
+            removed_value = self.tail_ptr.data
+            self.tail_ptr = self.tail_ptr.prev
+            self.tail_ptr.next = None
+            self.length -= 1
+            return removed_value
+
+    def get_first(self) -> object:
+        if self.length == 0:
+            raise IndexError('Пощёл в пизду')
+        else:
+            return self.head_ptr.data
+
+    def get_last(self) -> object:
+        if self.length == 0:
+            raise IndexError('Пощёл в пизду')
+        else:
+            return self.tail_ptr.data
+
+
+list = DoubleLinkedList()
+list.add_last(1)
+list.add_last(228)
+list.add_last(22)
+list.add_last(213131)
+list.add_last(1337)
+
+for i in list:
+    print(i)
+
+
