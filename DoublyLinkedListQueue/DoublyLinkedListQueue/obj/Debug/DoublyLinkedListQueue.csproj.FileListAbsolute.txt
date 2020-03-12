@@ -1,0 +1,6 @@
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\DoublyLinkedListQueue.exe.config
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\DoublyLinkedListQueue.exe
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\DoublyLinkedListQueue.pdb
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.csprojAssemblyReference.cache
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.exe
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.pdb
