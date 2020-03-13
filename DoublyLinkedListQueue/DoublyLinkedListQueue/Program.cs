@@ -10,7 +10,14 @@ namespace QueueLib
     {
         static void Main(string[] args)
         {
+            var a = new Queue<int>();
 
+            a.AddLast(123);
+            a.AddLast(223);
+
+            Console.WriteLine(a.RemoveFirst());
+
+            Console.ReadLine();
         }
     }
 }

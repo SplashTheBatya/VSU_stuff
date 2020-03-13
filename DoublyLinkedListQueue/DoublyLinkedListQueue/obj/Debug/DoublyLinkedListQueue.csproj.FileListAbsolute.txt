@@ -4,3 +4,13 @@ D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQue
 D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.csprojAssemblyReference.cache
 D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.exe
 D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\DoublyLinkedListQueue.exe.config
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\DoublyLinkedListQueue.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\DoublyLinkedListQueue.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\QueueLib.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\QueueLib.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.exe
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.pdb

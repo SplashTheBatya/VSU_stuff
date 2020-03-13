@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\bin\Debug\netstandard2.0\QueueLib.deps.json
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\bin\Debug\netstandard2.0\QueueLib.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\bin\Debug\netstandard2.0\QueueLib.pdb
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.dll
+C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.pdb

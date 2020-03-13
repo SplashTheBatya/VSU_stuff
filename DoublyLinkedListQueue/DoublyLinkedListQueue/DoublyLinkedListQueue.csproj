@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QueueLib\QueueLib.csproj">
+      <Project>{18bcecf4-6865-481b-8022-d14ccf02da7a}</Project>
+      <Name>QueueLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

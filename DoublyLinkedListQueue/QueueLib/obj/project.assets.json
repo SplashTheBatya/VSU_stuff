@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Хуйня\\GitHub\\HtmlCSS\\VSU_stuff\\DoublyLinkedListQueue\\QueueLib\\QueueLib.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\VSU_stuff\\DoublyLinkedListQueue\\QueueLib\\QueueLib.csproj",
       "projectName": "QueueLib",
-      "projectPath": "D:\\Хуйня\\GitHub\\HtmlCSS\\VSU_stuff\\DoublyLinkedListQueue\\QueueLib\\QueueLib.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\VSU_stuff\\DoublyLinkedListQueue\\QueueLib\\QueueLib.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Хуйня\\GitHub\\HtmlCSS\\VSU_stuff\\DoublyLinkedListQueue\\QueueLib\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\VSU_stuff\\DoublyLinkedListQueue\\QueueLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -227,16 +227,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

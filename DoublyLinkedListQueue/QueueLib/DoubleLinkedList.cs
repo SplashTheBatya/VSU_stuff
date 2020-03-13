@@ -28,13 +28,21 @@ namespace QueueLib
 
         public int count;
 
+        public DoubleLinkedList()
+        {
+            Head = null;
+            Tail = null;
+            count = 0;
+        }
+
         public void AddLast(T data)
         {
             var Node = new Node<T>(data);
 
             if (Head == null)
             {
-                Head = Node;
+                Head = Tail = Node;
+
             }
             else
             {
@@ -88,6 +96,11 @@ namespace QueueLib
             }
             Head = Node.Next;
             return buff;
+        }
+
+        public T GetLastAddedData()
+        {
+            return Tail.Data;
         }
 
         public void Clear()

@@ -3,11 +3,14 @@ using System.Collections;
 
 namespace QueueLib
 {
-    public interface IQueue<T> : IEnumerable
+    public interface IQueue<T>
     {
-        void AddFirst(T data);
 
-        T RemoveLast();
+        void AddLast(T data);
+
+        T RemoveFirst();
+
+        T GetData();
 
         void ClearQueue();
     }
