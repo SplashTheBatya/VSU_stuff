@@ -6,3 +6,11 @@ C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debu
 C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.AssemblyInfo.cs
 C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.dll
 C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.pdb
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\bin\Debug\netstandard2.0\QueueLib.deps.json
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\bin\Debug\netstandard2.0\QueueLib.dll
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\bin\Debug\netstandard2.0\QueueLib.pdb
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.AssemblyInfoInputs.cache
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.AssemblyInfo.cs
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.dll
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.pdb
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\QueueLib\obj\Debug\netstandard2.0\QueueLib.csprojAssemblyReference.cache

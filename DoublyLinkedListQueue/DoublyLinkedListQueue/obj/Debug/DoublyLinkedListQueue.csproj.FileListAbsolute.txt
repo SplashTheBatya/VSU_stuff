@@ -14,3 +14,6 @@ C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQ
 C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.csproj.CopyComplete
 C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.exe
 C:\Users\User\Documents\GitHub\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.pdb
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\QueueLib.dll
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\bin\Debug\QueueLib.pdb
+D:\Хуйня\GitHub\HtmlCSS\VSU_stuff\DoublyLinkedListQueue\DoublyLinkedListQueue\obj\Debug\DoublyLinkedListQueue.csproj.CopyComplete

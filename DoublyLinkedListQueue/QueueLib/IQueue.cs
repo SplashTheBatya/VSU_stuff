@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace QueueLib
 {
-    public interface IQueue<T>
+    public interface IQueue<T> : IEnumerable<T>
     {
-
-        void AddLast(T data);
-
-        T RemoveFirst();
-
-        T GetData();
-
-        void ClearQueue();
+        int Count();
+        void Enqueue(T data);
+        T Dequeue();
+        T Peek();
+        bool IsEmpty();
+        void Clear();
     }
 }

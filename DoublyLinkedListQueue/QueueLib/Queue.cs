@@ -8,33 +8,73 @@ using System.Threading.Tasks;
 
 namespace QueueLib
 {
-    public class Queue<T> : IQueue<T>
+    public class LinkedQueue<T> : IQueue<T>
     {
-        public Queue()
+
+        public DoubleLinkedList<T> List;
+        public LinkedQueue()
         {
             List = new DoubleLinkedList<T>();
         }
-        public DoubleLinkedList<T> List;
-
-        
-        public void AddLast(T data)
+        public LinkedQueue(T value)
+        {
+            List = new DoubleLinkedList<T>(new Node<T>(value));
+        }
+        public void Enqueue(T data)
         {
             List.AddLast(data);
         }
 
-        public void ClearQueue()
+        public T Dequeue()
+        {
+            if (IsEmpty())
+            {
+                return default;
+            }
+            return List.RemoveFirst();
+        }
+
+        public void Clear()
         {
             List.Clear();
         }
 
-        public T GetData()
+        public T Peek()
         {
             return List.GetLastAddedData();
         }
 
-        public T RemoveFirst()
+        public int Count()
         {
-            return List.RemoveFirst();
+            Node<T> buff = List.Head;
+            int count = 1;
+            while (!buff.Equals(List.Tail))
+            {
+                count++;
+                buff = buff.Next;
+
+            }
+            return count;
+        }
+
+        public bool IsEmpty()
+        {
+            return ((List.Head == null) && (List.Tail == null));
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            Node<T> current = List.Head;
+            while (current != null)
+            {
+                yield return current.Data;
+                current = current.Next;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }

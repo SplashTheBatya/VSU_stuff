@@ -8,7 +8,7 @@ using System.Collections;
 namespace QueueLib
 {
     public class Node<T>
-    {   
+    {
         public Node(T Data)
         {
             this.Data = Data;
@@ -28,6 +28,11 @@ namespace QueueLib
 
         public int count;
 
+        public DoubleLinkedList(Node<T> node)
+        {
+            Head = Tail = node;
+            count = 1;
+        }
         public DoubleLinkedList()
         {
             Head = null;
@@ -87,7 +92,7 @@ namespace QueueLib
 
         public T RemoveFirst()
         {
-            var Node = Tail;
+            var Node = Head;
             var buff = Node.Data;
             if (Node.Next == null)
             {

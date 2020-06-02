@@ -10,12 +10,21 @@ namespace QueueLib
     {
         static void Main(string[] args)
         {
-            var a = new Queue<int>();
+            var a = new LinkedQueue<int>();
 
-            a.AddLast(123);
-            a.AddLast(223);
+            var b = new LinkedQueue<int>(5);
 
-            Console.WriteLine(a.RemoveFirst());
+            b.Enqueue(12342);
+            
+
+            Console.WriteLine(b.Dequeue());
+
+            Console.ReadLine();
+
+            a.Enqueue(123);
+            a.Enqueue(223);
+
+            Console.WriteLine(a.Dequeue());
 
             Console.ReadLine();
         }
